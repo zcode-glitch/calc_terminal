@@ -13,6 +13,6 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone 
+git clone https://github.com/zcode-glitch/calc_terminal.git
 cd python-calc
 python main.py / py main.py
